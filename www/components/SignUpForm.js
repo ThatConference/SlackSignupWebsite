@@ -191,7 +191,6 @@ const SignUpForm = ({ className }) => (
                   name="isPastCamper"
                   onChange={handleChange}
                   onBlur={handleBlur}
-                  value={values.isPastCamper}
                 />
                 I have attended THAT Conference in the past.
               </label>
